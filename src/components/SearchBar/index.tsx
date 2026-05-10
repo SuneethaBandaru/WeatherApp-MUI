@@ -1,4 +1,5 @@
-import { useState, KeyboardEvent } from 'react'
+import { useState } from 'react'
+import type { KeyboardEvent } from 'react'
 import { Box, TextField, IconButton, InputAdornment } from '@mui/material'
 import SearchRoundedIcon from '@mui/icons-material/SearchRounded'
 import MyLocationRoundedIcon from '@mui/icons-material/MyLocationRounded'

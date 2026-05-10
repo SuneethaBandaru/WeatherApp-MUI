@@ -37,6 +37,11 @@ npm run dev
 
 App runs at `http://localhost:5173`
 
+Git repo link : https://github.com/SuneethaBandaru/WeatherApp-MUI.git
+
+Vercel live link : 
+
+
 ## API
 
 Uses [OpenWeatherMap](https://openweathermap.org/) free tier.  
